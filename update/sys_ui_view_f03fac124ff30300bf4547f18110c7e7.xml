@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>hr_manager_dashboard</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-23 15:21:50</sys_created_on>
+        <sys_id>f03fac124ff30300bf4547f18110c7e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hr_manager_dashboard</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_ui_view_f03fac124ff30300bf4547f18110c7e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-23 15:21:50</sys_updated_on>
+        <title>Hr_manager_dashboard</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
